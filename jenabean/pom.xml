@@ -13,7 +13,7 @@
     <groupId>de.atb-bremen</groupId>
     <artifactId>jenabean</artifactId>
     <packaging>jar</packaging>
-    <version>2.0.6</version>
+    <version>2.0.7</version>
     <name>Jenabean binding library for RDF</name>
     <url>https://github.com/ATB-Bremen/jenabean</url>
     <description>Jenabean is an annotation based library to bind java beans to RDF/OWL.</description>
